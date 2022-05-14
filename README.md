@@ -1,4 +1,4 @@
-# Veri-Yap-lar-ve-Algoritmalar
+# Veri-Yapilari-ve-Algoritmalar
 Insertion-Sort-Projesi
 
 [22, 27, 16, 2, 18, 6]
